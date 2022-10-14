@@ -2,9 +2,6 @@
 
 
 
- 
-
-
 ## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
 
 ## Aim: 
